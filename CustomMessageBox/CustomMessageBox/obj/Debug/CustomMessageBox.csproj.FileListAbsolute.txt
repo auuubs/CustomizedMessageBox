@@ -1,0 +1,78 @@
+C:\Users\IT_Sec1\source\repos\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.exe.config
+C:\Users\IT_Sec1\source\repos\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.exe
+C:\Users\IT_Sec1\source\repos\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.pdb
+C:\Users\IT_Sec1\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csprojAssemblyReference.cache
+C:\Users\IT_Sec1\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Properties.Resources.resources
+C:\Users\IT_Sec1\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.GenerateResource.cache
+C:\Users\IT_Sec1\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.CoreCompileInputs.cache
+C:\Users\IT_Sec1\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.exe
+C:\Users\IT_Sec1\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.pdb
+C:\Users\IT_Sec1\Desktop\SinagSystem\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.exe.config
+C:\Users\IT_Sec1\Desktop\SinagSystem\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.exe
+C:\Users\IT_Sec1\Desktop\SinagSystem\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.pdb
+C:\Users\IT_Sec1\Desktop\SinagSystem\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Properties.Resources.resources
+C:\Users\IT_Sec1\Desktop\SinagSystem\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.GenerateResource.cache
+C:\Users\IT_Sec1\Desktop\SinagSystem\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.CoreCompileInputs.cache
+C:\Users\IT_Sec1\Desktop\SinagSystem\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.exe
+C:\Users\IT_Sec1\Desktop\SinagSystem\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.pdb
+C:\Users\IT_Sec1\Desktop\SinagSystem\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Save_Confirmation.resources
+C:\Users\IT_Sec1\Desktop\SinagSystem\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Warning_Confirmation.resources
+C:\Users\IT_Sec1\Desktop\SinagSystem\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Warning.resources
+C:\Users\IT_Sec1\Desktop\SinagSystem_GA\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.exe.config
+C:\Users\IT_Sec1\Desktop\SinagSystem_GA\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.exe
+C:\Users\IT_Sec1\Desktop\SinagSystem_GA\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.pdb
+C:\Users\IT_Sec1\Desktop\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Properties.Resources.resources
+C:\Users\IT_Sec1\Desktop\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Warning.resources
+C:\Users\IT_Sec1\Desktop\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Save_Confirmation.resources
+C:\Users\IT_Sec1\Desktop\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Warning_Confirmation.resources
+C:\Users\IT_Sec1\Desktop\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.GenerateResource.cache
+C:\Users\IT_Sec1\Desktop\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.CoreCompileInputs.cache
+C:\Users\IT_Sec1\Desktop\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.exe
+C:\Users\IT_Sec1\Desktop\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.pdb
+C:\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.exe.config
+C:\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.exe
+C:\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.pdb
+C:\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Properties.Resources.resources
+C:\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Warning.resources
+C:\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Save_Confirmation.resources
+C:\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Warning_Confirmation.resources
+C:\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.GenerateResource.cache
+C:\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.CoreCompileInputs.cache
+C:\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.exe
+C:\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.pdb
+\\IT_SEC1\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.exe.config
+\\IT_SEC1\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.exe
+\\IT_SEC1\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.pdb
+\\IT_SEC1\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csprojAssemblyReference.cache
+\\IT_SEC1\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Properties.Resources.resources
+\\IT_SEC1\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Warning.resources
+\\IT_SEC1\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Save_Confirmation.resources
+\\IT_SEC1\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Warning_Confirmation.resources
+\\IT_SEC1\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.GenerateResource.cache
+\\IT_SEC1\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.CoreCompileInputs.cache
+\\IT_SEC1\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.exe
+\\IT_SEC1\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.pdb
+C:\Users\IT_SEC3\Desktop\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csprojAssemblyReference.cache
+C:\Users\IT_SEC3\Desktop\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Properties.Resources.resources
+C:\Users\IT_SEC3\Desktop\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Warning.resources
+C:\Users\IT_SEC3\Desktop\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Save_Confirmation.resources
+C:\Users\IT_SEC3\Desktop\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Warning_Confirmation.resources
+C:\Users\IT_SEC3\Desktop\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.GenerateResource.cache
+C:\Users\IT_SEC3\Desktop\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.CoreCompileInputs.cache
+C:\Users\IT_SEC3\Desktop\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.exe
+C:\Users\IT_SEC3\Desktop\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.pdb
+C:\Users\IT_SEC3\Desktop\SinagSystem_GA\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.exe.config
+C:\Users\IT_SEC3\Desktop\SinagSystem_GA\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.exe
+C:\Users\IT_SEC3\Desktop\SinagSystem_GA\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.pdb
+\\192.168.1.46\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.exe.config
+\\192.168.1.46\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.exe
+\\192.168.1.46\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.pdb
+\\192.168.1.46\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Properties.Resources.resources
+\\192.168.1.46\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Warning.resources
+\\192.168.1.46\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Save_Confirmation.resources
+\\192.168.1.46\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Warning_Confirmation.resources
+\\192.168.1.46\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.GenerateResource.cache
+\\192.168.1.46\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.CoreCompileInputs.cache
+\\192.168.1.46\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.exe
+\\192.168.1.46\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.pdb
+\\192.168.1.46\Users\IT_Sec1\Desktop\ON-GOING PROJECT\SinagSystem_GA\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csprojAssemblyReference.cache
